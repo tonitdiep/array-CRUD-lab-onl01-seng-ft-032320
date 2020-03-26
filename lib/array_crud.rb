@@ -6,8 +6,7 @@ def create_an_array
     ["tea", "coffee", "wine", "broth", "stew"]
 end
 
-def add_element_to_end_of_array(array, element)
-    array<<"stew"
+def add_element_to_end_of_array(array << element)
     ["tea", "coffee", "wine", "broth", "stew"]
 end
 
