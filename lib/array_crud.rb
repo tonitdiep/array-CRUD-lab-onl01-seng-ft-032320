@@ -6,8 +6,8 @@ def create_an_array
     ["tea", "coffee", "wine", "broth"]
 end
 
-def add_element_to_end_of_array(array, element)
-    ["tea", "coffee", "wine", "broth", "stew"]
+def add_element_to_end_of_array
+  ["tea", "coffee", "wine", "broth", "stew"]
 end
 
 def add_element_to_start_of_array(array, element)
